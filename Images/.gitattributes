@@ -1,1 +1,5 @@
 tank_30.gif filter=lfs diff=lfs merge=lfs -text
+minigun_25.gif filter=lfs diff=lfs merge=lfs -text
+Train_30fps_240frames.gif filter=lfs diff=lfs merge=lfs -text
+cannon_3.gif filter=lfs diff=lfs merge=lfs -text
+civil_plane_2.gif filter=lfs diff=lfs merge=lfs -text
